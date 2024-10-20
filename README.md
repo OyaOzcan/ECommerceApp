@@ -7,3 +7,4 @@
 <img width="200" alt="Ekran Resmi 2024-10-20 06 54 38" src="https://github.com/user-attachments/assets/f4823d77-de60-4c65-b187-940bcf73afa9">
 <img width="200" alt="Ekran Resmi 2024-10-20 06 54 44" src="https://github.com/user-attachments/assets/0b98d06a-94a1-4f57-9899-394c8929d9ca">
 <img width="200" alt="Ekran Resmi 2024-10-20 06 54 47" src="https://github.com/user-attachments/assets/6c064e38-591d-453e-8598-2c09399b46c5">
+<img width="200" alt="Ekran Resmi 2024-10-20 07 40 22" src="https://github.com/user-attachments/assets/b2589c60-ba2a-4150-81d9-146ae3687968">
